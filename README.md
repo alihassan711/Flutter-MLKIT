@@ -1,5 +1,4 @@
-# google\_ml\_kit example app
-## Requirements
+# Flutter ML-Kit
 
 Requirements for running this project include:
 
